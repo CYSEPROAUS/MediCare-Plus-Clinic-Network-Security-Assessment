@@ -1,6 +1,6 @@
 # Week 6 Meeting Minutes
 
-**Date:** Monday, 6 April 2026  
+**Date:** Monday, 13 April 2026  
 **Time:** 7:00 PM – 8:05 PM AEST  
 **Platform:** Microsoft Teams  
 **Attendees:** Carlos Gomez Mendez, Abdullah Naeem, Kishan Durlabhbhai Patel  
